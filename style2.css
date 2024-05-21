@@ -1,0 +1,172 @@
+html{
+    font-size: 0.8vw;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    width: 100%;
+}
+.h1{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 8rem;
+    color: #fff;
+    text-align: center;
+    text-shadow: inset 0 8px 8px 0 rgba(0, 0, 0, 0.25);
+}
+.h2{
+    font-family: var(--font-family);
+    font-style: italic;
+    font-weight: 700;
+    font-size: 4rem;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: 38px;
+}
+.p{
+    font-family: var(--font-family);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.p1{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 3.25rem;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #000;
+}
+.p2{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 2.6rem;
+    text-align: center;
+    color: #fff;
+}
+.p3{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 3rem;
+    color: #000;
+    text-align: center;
+    justify-content: center;
+}
+.container1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("minejp\ 1.jpg");
+    
+}
+.section1{
+    border-radius: 0.94rem;
+    width: 18.75rem;
+    height: 4.38rem;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section1:hover{
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.25);
+}
+.textContainer{
+    width: 100%;
+    height: 15vh;
+    background-color: aliceblue;
+    opacity: 0.9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container2{
+    width: 100%;
+    height: 129vh;
+    background-image: url(pngwing\ 3.jpg);
+    display: grid;
+    justify-content: center;
+}
+.container3{
+    width: 100%;
+    height: 100vh;
+    background-image: url(viewcityscapelandscapesstockholmsweden1.jpg);
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin: 8%;
+}
+.section3{
+    border-radius: 1.88rem;
+    width: 38.75rem;
+    height: 20.94rem;
+    background-color: #7481f4;
+}
+.im2{
+    position: relative;
+    top: -72px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.container4{
+    width: 100%;
+    height: 100vh;
+    background-image: url(16546351031.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.section4{
+    border-radius: 1.25rem;
+    width: 30em;
+    height: 13.25rem;
+    background-color: #fff;
+    opacity: 0.9;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.section5{
+    border-radius: 1.25rem;
+    width: 50rem;
+    height: 9.25rem;
+    background-color: #fff;
+    opacity: 0.9;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.section6{
+    border-radius: 1.25rem;
+    width: 62.5rem;
+    height: 31.25rem;
+    background-color: #fff;
+    opacity: 0.9;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.container5{
+    width: 100%;
+    height: 100vh;
+    background-image: url(16546351171.jpg);
+    display: grid;
+    justify-content: center;
+}
+.section7{
+    border-radius: 1.25rem;
+    width: 92.81rem;
+    height: 22.5rem;
+    background: linear-gradient(90deg, rgba(83, 184, 216, 0.9) 0%, rgba(236, 235, 235, 0.9) 91.5%);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.container6{
+    width: 100%;
+    height: 100vh;
+    background-image: url(night21.jpg);
+}
+ 
